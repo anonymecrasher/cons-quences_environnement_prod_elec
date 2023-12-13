@@ -1,5 +1,5 @@
 credit:
-# mathias farvacque
-# ny-harena rakotovao
-# max judek
-# Louka de cauwer
+# mathias FARVACQUE
+# ny-harena Rakotovao
+# max Judek
+# Louka De Cauwer
