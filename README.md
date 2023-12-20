@@ -7,7 +7,7 @@
 
 Lithium :
 
-<a href="https://www.cafeyn.co/fr/offers?connection=true&return=articlesReader">Cafeyn - Abonnement aux magazines en ligne</a>
+<a href="https://www.cafeyn.co/fr/offers?connection=true&return=articlesReader">Cafeyn - Du lithium "Repsonsable",est-ce vraiment possible ? (2022, Libération)</a>
 
 Énergie Fossile → Quasi totalité des gaz a effet se serre (CO2 etc.)
 Il faut les diminuer, Solutions ?
