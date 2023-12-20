@@ -34,7 +34,7 @@ Imerys pense a une solution qui fait face aux productions des pays du sud ce qui
 
 La production de lithium est vue à la hausse pour les prochaines années mais les gisements lithinifères sont de plus en plus dures a trouver car le lithium est un métal léger, il ce concentre dans les parties supérieures des croûtes terrestres ce qui rend la recherche de gisements plus difficiles. Il faut donc se rabattre sur des  gisements moins conventionnelles comme les pétroliers, l’eau de mer qui sont plus surs à exploiter et donc ont besoin de plus de moyens parfois qui ne respectent pas les normes environnementales 
 
-<a href="https://www.cafeyn.co/fr/offers?connection=true&return=articlesReader">Cafeyn - Abonnement aux magazines en ligne</a>
+<a href="https://www.cafeyn.co/fr/offers?connection=true&return=articlesReader">Cafeyn - Lithium l'or blanc de l'économie verte</a>
 
 Le lithium est essentiel a la fabrication des batteries pour les voitures électriques et donc est essentiel pour la mobilité verte.
 La production de voitures à été multipliée par 5 en 12 ans.
