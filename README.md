@@ -1,5 +1,4 @@
-credit:
-# mathias FARVACQUE
-# ny-harena Rakotovao
-# max Judek
-# Louka De Cauwer
+# ENSEIGNEMENT SCIENTIFIQUE - Les conséquences environnementales de la production d'electricité
+
+Mathias FARVACQUE / Ny-Harena RAKOTOVAO / Max JUDEK / Louka DE CAUWER
+----
