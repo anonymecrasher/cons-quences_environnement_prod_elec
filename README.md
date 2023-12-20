@@ -46,4 +46,18 @@ Processus de raffinage et d’extraction → émissions de CO2, Défiguration du
 
 Solution possible → Lithium « vert », exploitation eaux géothermales dans le Bas-Rhin (EuGeLi) Premiers carbonates de lithium ( Batterie Made in Europe) et d’autres projets au Royaume Uni ou en Allemagne
 
+----
+
 Nucléaire :
+
+----
+
+Charbon :
+
+Production électrique :
+Le principe de fonctionnement des centrales thermiques au charbon est simple : le charbon est brûlé dans des chaudières. Il chauffe ainsi l'eau, qui, transformée en vapeur, fait tourner des turbines. Celles-ci sont couplées à des alternateurs produisant de l'électricité.
+Les méthodes de combustion du charbon sont nombreuses et variées. Les technologies les plus anciennes, qui sont constamment améliorées, sont la combustion sur grille et la combustion de charbon finement broyé (charbon pulvérisé) injecté en chaudière. Les nouvelles technologies sont la combustion de charbon en lit fluidisé à pression atmosphérique ou sous pression, ainsi que les techniques plus sophistiquées (dites de cycle combiné), qui incluent une phase de gazéification du charbon et à la fois une turbine à gaz et une turbine à vapeur. Ces dernières technologies permettent d'atteindre des rendements énergétiques supérieurs à 45 p. 100.
+origine et nature du charbon :
+
+On appelle charbon des roches sédimentaires d'origine organique contenant au moins 50 p. 100 de carbone. Les origines du charbon remontent à l'époque du Carbonifère, il y a de 250 à 300 millions d'années, lorsque la forêt hercynienne a engendré la concentration de dépôts considérables de débris végétaux qui ont été recouverts de terre et d'alluvions à la suite d'affaissements du sol ou d'une élévation du niveau des eaux.
+Le charbon renferme quatre constituants : du carbone, de l'eau, des composants (soufre, azote, hydrogène...) donnant lieu au dégagement de matières volatiles et des éléments (sodium, calcium, potassium...) qui se transforment en cendres pendant la combustion. 
