@@ -84,6 +84,22 @@ Le nucléaire civil
 En 2014, 439 centrales nucléaires étaient en service dans le monde, exploitées par 31 pays. Elles représentaient une puissance installée de plus de plus de 370 gigawatts, soit environ 12 p. 100 de la capacité mondiale de production d'énergie électrique. Les plus grands producteurs d’électricité nucléaire sont les États-Unis, la France et la Russie. Malgré la catastrophe de Fukushima, qui a eu lieu en mars 2011 et suscité une vive émotion, plus de 70 nouvelles centrales étaient en construction dans le monde en 2014, soit le plus grand nombre de mises en chantier depuis 1989. Le nucléaire connaît son développement le plus important en Asie, où de nombreux réacteurs sont en construction. L’Inde veut notamment passer, d’ici à 2020, de 2 p. 100 à 15 p. 100 d’électricité d’origine nucléaire. Aux États-Unis et en Russie, les autorités relancent l’utilisation de cette source d’énergie. En Europe occidentale, la situation est contrastée. En 2001, l’Allemagne a opté pour une politique de sortie du nucléaire d’ici à 2020, politique qu’elle a confirmée en 2011 après la catastrophe de Fukushima. D’autres pays, comme la France ou la Finlande, construisent de nouveaux réacteurs
 
 
+......
+
+
+L'énergie fossile est associée à la quasi-totalité des gaz à effet de serre, nécessitant des solutions pour réduire ces émissions. Deux approches majeures sont l'électrification des véhicules et l'utilisation de l'énergie nucléaire pour une production décarbonée.
+
+Cependant, la quête de performance dans la production d'électricité implique l'utilisation de batteries au lithium, entraînant des conséquences environnementales, notamment dans l'extraction de lithium. Imerys envisage d'extraire 34 000 tonnes d'hydroxyde de lithium par an à partir de 2028, mais les sources principales en Australie et au Chili présentent des problèmes écologiques. En Australie, l'extraction nécessite des produits chimiques nocifs, tandis qu'au Chili, l'utilisation d'eau pour les lacs salés prive les populations locales d'eau potable.
+
+Imerys explore l'électrification des équipements et la réduction du transport pour minimiser les impacts environnementaux. Leur approche vise à concurrencer les productions du Sud, souvent associées à des conséquences sociales et environnementales graves.
+
+La demande croissante de lithium pour les batteries, liée à l'expansion de la production de voitures électriques, soulève des défis. Les gisements de lithium deviennent plus difficiles à trouver, incitant à explorer des sources non conventionnelles comme les pétroliers et l'eau de mer, parfois en violation des normes environnementales.
+
+L'article "Lithium, l'or blanc de l'économie verte" souligne l'importance du lithium dans la mobilité verte et les défis liés à sa production. Les objectifs climatiques de l'accord de Paris nécessitent une augmentation de 90 % de la production de batteries au lithium d'ici 2040. Cependant, les principales sources, concentrées dans le "triangle du lithium," présentent des risques environnementaux significatifs.
+
+Une solution possible évoquée est l'exploitation "verte" du lithium, comme le projet EuGeLi en utilisant les eaux géothermales dans le Bas-Rhin. Ces approches, associées à d'autres projets en Europe, visent à atténuer les risques environnementaux liés à la production de lithium, offrant une perspective plus durable pour l'économie verte.
+
+
 
 ----
 
