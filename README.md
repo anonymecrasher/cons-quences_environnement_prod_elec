@@ -121,3 +121,6 @@ En conclusion, l'avenir du charbon pour la production d'électricité semble ass
 
 On appelle charbon des roches sédimentaires d'origine organique contenant au moins 50 p. 100 de carbone. Les origines du charbon remontent à l'époque du Carbonifère, il y a de 250 à 300 millions d'années, lorsque la forêt hercynienne a engendré la concentration de dépôts considérables de débris végétaux qui ont été recouverts de terre et d'alluvions à la suite d'affaissements du sol ou d'une élévation du niveau des eaux.
 Le charbon renferme quatre constituants : du carbone, de l'eau, des composants (soufre, azote, hydrogène...) donnant lieu au dégagement de matières volatiles et des éléments (sodium, calcium, potassium...) qui se transforment en cendres pendant la combustion. 
+
+## pour louka
+L'ordre de grandeur des durées liées à l'injection de CO2 dans le sous-sol est de un à deux siècles, aligné sur l'utilisation des combustibles fossiles. Le Groupe intergouvernemental sur l'évolution du climat (G.I.E.C.) a suggéré en 2005 un taux de fuite annuel ne dépassant pas 1 p. 1 000 du volume total stocké pour prévenir le retour du CO2 dans l'atmosphère. Des études spécifiques à chaque site de stockage sont nécessaires pour confirmer cette limite et assurer la protection de l'humain et de l'environnement.
