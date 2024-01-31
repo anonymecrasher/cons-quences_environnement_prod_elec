@@ -158,3 +158,19 @@ Néanmoins, le charbon fait face à des critiques persistantes en raison de son 
 En ce qui concerne les enjeux environnementaux, les centrales thermoélectriques au charbon ont surmonté les émissions acides des années 1980, mais les émissions de CO2, contribuant au changement climatique, restent un défi. Le captage du CO2 suivi de son stockage géologique émerge comme une solution prometteuse. Cependant, la mise en œuvre du stockage géologique doit garantir la sécurité environnementale, évitant les fuites de CO2 susceptibles d'altérer la qualité des nappes d'eau potable.
 
 Pour l'avenir du charbon dans la production d'électricité, une double évolution est essentielle. D'une part, l'amélioration des rendements peut réduire les émissions de 10%, et d'autre part, l'adoption de technologies de captage et de stockage du CO2, prévue vers 2020, peut permettre une réduction spectaculaire des émissions, allant de 80 à 95%, malgré une légère baisse de rendement. Ainsi, le charbon peut jouer un rôle crucial dans la transition énergétique, servant de pont vers des sources d'énergie plus avancées au cours du siècle à venir.
+
+
+## energies vertes
+
+Les énergies renouvelables sont des sources d'énergie d'origine naturelle dont le renouvellement est suffisamment rapide à l’échelle humaine du temps pour qu’elles puissent être considérées comme presque inépuisables. Elles sont issues du rayonnement solaire, des vents, du cycle de l'eau, de la biomasse (tout ce qui est d’origine biologique, principalement végétale), du flux de chaleur interne de la Terre, de l’effet de l'attraction lunaire et solaire sur les océans... Elles s'opposent ainsi aux énergies minières et fossiles, dont les stocks sont forcément limités puisqu’ils se sont constitués lors de la formation du système solaire 
+
+
+Elles permettent donc de produire une énergie plus propre mais ont des conséquences qui ne sont pas niables, que ce soit sur l’environnement ou sur la société.
+
+éolienne = Pollution sonore et visuelle, nécessite des matières premières ayant un impact sur l’environnement, menace pour les écosystèmes (lien afrique du sud)
+
+Panneaux solaires = Matières premières donc impact écologique. (liens parc stationnaire)
+
+Barrage = Impact non négligeable sur les écosystèmes marins (voir manuel)
+
+Les conséquences environnementales sont niables, puisque l’apport en énergie qu’elles apportent dépassent celle utilisée à leur conception dans le temps.
