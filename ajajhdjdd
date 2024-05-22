@@ -18,3 +18,16 @@ Deux facteurs expliquent le nouvel essor de la discipline aux alentours de 2010.
 - L’accès tout d’abord à des volumes massifs des données. Pour pouvoir utiliser des algorithmes de classification d’image et de reconnaissance d’un chat par exemple, il fallait auparavant réaliser soi-même un échantillonnage. Aujourd’hui, une simple recherche sur Google permet d’en trouver des millions.
 - Ensuite la découverte de la très grande efficacité des processeurs de cartes graphiques des ordinateurs pour accélérer le calcul des algorithmes d’apprentissage. Le processus étant très itératif, cela pouvait prendre des semaines avant 2010 pour traiter l’intégralité d’un échantillonnage. La puissance de calcul de ces cartes, a permis un progrès considérable pour un coût financier restreint .
 Ce nouvel attirail technologique a permis quelques succès publics significatifs et a relancé les financements : en 2011, Watson, l’IA d’IBM, remportera les parties contre 2 champions du « Jeopardy ! ».
+
+
+
+///
+
+
+L'intelligence artificielle (IA) représente une avancée technologique avec de nombreux avantages. Par exemple, elle améliore la précision des diagnostics médicaux, permet d'optimiser les chaînes de production industrielle, et peut prendre en charge des tâches répétitives dans de nombreux secteurs. De plus, les systèmes de navigation et les assistants virtuels simplifient notre quotidien, et les IA dans le domaine de l'éducation peuvent personnaliser l'apprentissage pour chaque élève. En agriculture, l'IA aide à surveiller les cultures et à optimiser les récoltes, tandis que dans les transports, elle contribue au développement des véhicules autonomes.
+
+Cependant, ces avancées soulèvent aussi des questions éthiques importantes. L'automatisation peut entraîner une perte d'emplois dans de nombreux secteurs, ce qui peut augmenter le chômage et les inégalités sociales si des solutions de reconversion ne sont pas mises en place. La collecte et l'analyse massive de données personnelles posent des problèmes de vie privée, car ces données peuvent être utilisées de manière abusive. De plus, les biais dans les algorithmes peuvent mener à des discriminations dans des domaines comme le recrutement, la justice, ou les prêts bancaires, perpétuant les inégalités existantes. Les IA utilisées pour surveiller les citoyens peuvent également poser des problèmes de libertés individuelles et de surveillance de masse.
+
+Une autre question est la transparence et la responsabilité des systèmes d'IA. Souvent, les décisions prises par ces systèmes sont difficiles à comprendre et à expliquer, ce qui peut poser des problèmes de responsabilité. Par exemple, en cas d'accident impliquant une voiture autonome, il peut être difficile de déterminer qui est responsable : le fabricant, le programmeur, ou le propriétaire du véhicule. Il est donc crucial de développer des cadres réglementaires et des IA explicables pour assurer une utilisation éthique et responsable de ces technologies.
+
+En conclusion, bien que l'IA offre des opportunités considérables pour améliorer notre qualité de vie et notre efficacité, il est essentiel d'aborder les défis éthiques qu'elle pose. Cela nécessite une réflexion approfondie et des actions concertées pour maximiser les bénéfices tout en minimisant les impacts négatifs sur la société.
